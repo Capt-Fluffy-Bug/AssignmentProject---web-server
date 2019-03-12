@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Project Alpha</title>
+	<link rel="stylesheet" type="text/css" href="/css/bootstrap.css">
+	<link rel="stylesheet" type="text/css" href="/css/style.css">
+</head>
+</head>
+<body>
+	<div class="cover-container d-flex w-100 h-100 p-3 mx-auto flex-column">
+      <header class="masthead mb-auto">
+        <div class="inner">
+          {{#if user}}
+            <h3 class="masthead-brand"><a href="/users/home" style="text-decoration: none;">Project Alpha</a></h3>
+          {{else}}
+            <h3 class="masthead-brand"><a href="/" style="text-decoration: none;">Project Alpha</a></h3>
+          {{/if}}
+          <nav class="nav nav-masthead justify-content-center">
+            {{#if user}}
+              <a class="nav-link" href="/users/home">Home</a>
+              <a class="nav-link" href="/users/about">About</a>
+              <a class="nav-link" href="/users/logout">Logout</a>
+            {{else}}
+              <a class="nav-link" href="/users/register">Register</a>
+              <a class="nav-link" href="/users/about">About</a>
+              <a class="nav-link" href="/users/login">Login</a>
+            {{/if}}
+          </nav>
+        </div>
+      </header>
+
+      <main role="main" class="inner cover">
+        {{#if success_msg}}
+          <div class="alert alert-success">
+            {{success_msg}}
+          </div>  
+        {{/if}}
+
+        {{#if error_msg}}
+          <div class="alert alert-danger">
+            {{error_msg}}
+          </div>
+        {{/if}}
+
+        {{#if error}}
+          <div class="alert alert-danger">
+            {{error}}
+          </div> 
+        {{/if}}
+
+        {{{body}}}
+      </main>
+
+      <footer class="mastfoot mt-auto">
+        <div class="inner">
+          <p class="text-center">&copy; 2018-2019</p>
+        </div>
+      </footer>
+    </div>
+   
+
+
+</body>
+</html>

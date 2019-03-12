@@ -1,0 +1,481 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get",
+				"getUserByUsername"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"req",
+				"require"
+			],
+			[
+				"new",
+				"newUser"
+			],
+			[
+				"Us",
+				"UserSchema"
+			],
+			[
+				"pa",
+				"password"
+			],
+			[
+				"P",
+				"password2"
+			],
+			[
+				"N",
+				"Number"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"mar",
+				"margin-right\tproperty"
+			],
+			[
+				"le",
+				"margin-left\tproperty"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"ini",
+				"Initialize"
+			],
+			[
+				"expre",
+				"expressValidator"
+			],
+			[
+				"coo",
+				"cookieParser"
+			],
+			[
+				"a",
+				"auto\tmargin-right"
+			],
+			[
+				"in",
+				"inline-block\tdisplay"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"Cou",
+				"Course_code"
+			],
+			[
+				"mys",
+				"mysql"
+			],
+			[
+				"C",
+				"Course_Code"
+			],
+			[
+				"Co",
+				"Course_Code"
+			],
+			[
+				"Tea",
+				"Teacher_Name"
+			],
+			[
+				"Course",
+				"Course_Code"
+			],
+			[
+				"sty",
+				"stylesheet"
+			],
+			[
+				"W",
+				"WriteToFile"
+			],
+			[
+				"ons",
+				"onsubmit\tAttr"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"margin-",
+				"margin-right\tproperty"
+			],
+			[
+				"marg",
+				"margin-right\tproperty"
+			],
+			[
+				"init",
+				"init_w"
+			],
+			[
+				"y",
+				"Y"
+			],
+			[
+				"x",
+				"x"
+			],
+			[
+				"Y",
+				"Y"
+			],
+			[
+				"plot_",
+				"plot_surface"
+			],
+			[
+				"plot",
+				"plot_surface"
+			],
+			[
+				"F",
+				"FormatStrFormatter"
+			],
+			[
+				"z",
+				"zaxis"
+			],
+			[
+				"ma",
+				"max_epochs"
+			],
+			[
+				"repla",
+				"replace"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/F/Project-1/app.js",
+		"/F/Programming stuff/Python projects/AlphaPredict.py",
+		"/G/Sublime Text 3/sublime.py",
+		"/G/New folder/Test.py",
+		"/G/Popcorn-Time/src/app/app.js",
+		"/C/Users/RAHUL/Downloads/sigmoid.m",
+		"/F/Assignment/Calculator.py",
+		"/C/Users/RAHUL/Downloads/cofiCostFunc.m",
+		"/C/Users/RAHUL/Downloads/selectThreshold.m",
+		"/C/Users/RAHUL/Downloads/predict (1).m",
+		"/F/Machine Learning/ex1/gradientDescent.m",
+		"/C/Users/RAHUL/Downloads/plotData.m",
+		"/C/Users/RAHUL/Downloads/costFunction.m",
+		"/C/Users/RAHUL/Downloads/predict.m",
+		"/C/Users/RAHUL/Downloads/costFunctionReg.m",
+		"/F/Project-1/package.json",
+		"/F/Project-1/views/layouts/layout.handlebars",
+		"/F/Project-1/routes/users.js",
+		"/F/Project-1/views/index.handlebars",
+		"/C/Users/RAHUL/Downloads/Self_Driving_Car/Self_Driving_Car/map.py",
+		"/C/Users/RAHUL/Downloads/Self_Driving_Car/Self_Driving_Car/map_commented.py",
+		"/C/Users/RAHUL/Downloads/Self_Driving_Car/Self_Driving_Car/ai.py",
+		"/F/Project-1/models/user.js",
+		"/F/Project-1/views/about.handlebars",
+		"/F/Project-1/views/login.handlebars",
+		"/F/Project-1/views/register.handlebars",
+		"/F/SE-Assignment/Feedback.js",
+		"/F/Project-1/views/home.handlebars",
+		"/F/Project-1/public/css/bootstrap.css",
+		"/F/Project/bin/www",
+		"/H/Project-1/models/user.js",
+		"/C/emu8086/MySource/DFFD.asm",
+		"/F/Project-1/public/css/style.css",
+		"/F/Project-1/public/css/index.css",
+		"/F/nodeauth/views/register.jade",
+		"/F/SE-Assignment/Feedback.html",
+		"/F/nodeauth/views/login.jade",
+		"/F/Project-1/routes/index.js",
+		"/F/SE-Assignment/assets/style1.css",
+		"/F/SE-Assignment/assets/main.css",
+		"/F/SE-Assignment/package.json",
+		"/F/nodeauth/public/stylesheets/style.css",
+		"/F/nodeauth/views/layout.jade",
+		"/F/Project/app.js",
+		"/F/Project/package.json",
+		"/C/Users/RAHUL/AppData/Local/Temp/Rar$DIa0.351/style.css",
+		"/C/Users/RAHUL/AppData/Local/Temp/Rar$DIa0.175/layout.jade",
+		"/C/Users/RAHUL/AppData/Local/Temp/Rar$DIa0.418/index.jade",
+		"/F/Assignment/files/Calculator.py",
+		"/H/ASM files/password.asm",
+		"/F/Assignment/files/main.css",
+		"/F/Assignment/files/submit.html",
+		"/C/Users/RAHUL/Desktop/Sortcuts/root/page1.html",
+		"/H/ASM files/Positive-Negative.asm",
+		"/H/ASM files/mycode.asm",
+		"/F/Assignment/files/cal.py",
+		"/C/Users/RAHUL/AppData/Local/Temp/Rar$DIa0.248/styles.css",
+		"/F/Assignment/app/static/css/main.css",
+		"/F/Assignment/app/templates/Feedback.html",
+		"/F/Assignment/app/app.py",
+		"/F/stuff/1.js",
+		"/F/stuff/2.js",
+		"/F/stuff/Feedback.js",
+		"/C/Users/RAHUL/Desktop/Sortcuts/root/page1.css",
+		"/F/Assignment/index.html",
+		"/F/Assignment/files/Feedback.html",
+		"/F/Assignment/Feedback.html",
+		"/F/Assignment/static/css/main.css",
+		"/F/Assignment/hello.py",
+		"/F/Assignment/Question_3.css",
+		"/F/Assignment/program.js",
+		"/F/Assignment/static/Feedback.html",
+		"/C/Users/RAHUL/Desktop/Sortcuts/root/calculator.html",
+		"/C/Users/RAHUL/Downloads/pybrain-master/pybrain-master/docs/tutorials/blackboxoptimization.py",
+		"/F/Jython/Demo/applet/deprecated/HelloApplet.py",
+		"/C/Users/RAHUL/Desktop/Sortcuts/root/calculator.java",
+		"/F/Assignment/Question_3.html",
+		"/H/TestInput.java",
+		"/H/TestInput.html",
+		"/F/Assignment/OCR.py",
+		"/F/Jython/Demo/applet/deprecated/ButtonDemo.py",
+		"/C/Users/RAHUL/Downloads/pybrain-master/pybrain-master/docs/tutorials/networks.py",
+		"/C/Users/RAHUL/Downloads/pybrain-master/pybrain-master/examples/supervised/backprop/parityrnn.py",
+		"/C/Users/RAHUL/Downloads/pybrain-master/pybrain-master/examples/supervised/neuralnets+svm/example_fnn.py",
+		"/C/Users/RAHUL/Downloads/pybrain-master/pybrain-master/examples/supervised/evolino/superimposed_sine.py",
+		"/C/Users/RAHUL/Downloads/pybrain-master/pybrain-master/setup.py",
+		"/C/Users/RAHUL/Downloads/SimpleHTR-master/src/main.py",
+		"/F/Python/OCR_prerequisites.py",
+		"/F/Python/Deep Learning Assignments/Assignment_38.py",
+		"/F/Python/Deep Learning Assignments/Hackerrank1.py",
+		"/C/Users/RAHUL/Downloads/SimpleHTR-master/src/Counter.py",
+		"/C/Users/RAHUL/Downloads/SimpleHTR-master/src/SamplePreprocessor.py",
+		"/H/Cal.html",
+		"/H/simple-ocr-opencv-master/simpleocr/ocr.py",
+		"/H/simple-ocr-opencv-master/example.py",
+		"/H/Cal.java",
+		"/H/simple-ocr-opencv-master/setup.py",
+		"/F/Python/Deep Learning Assignments/Assignment_2.py",
+		"/F/Python/Deep Learning Assignments/Assignment_27.py",
+		"/F/Python/Deep Learning Assignments/test.py",
+		"/F/Python/Deep Learning Assignments/Assignment_34.py",
+		"/F/Python/Deep Learning Assignments/sds.py",
+		"/F/test.java",
+		"/H/Deep Learning Assignments/sds.py",
+		"/F/Python/Deep Learning Assignments/Assignment_26.py",
+		"/F/Python/DigiPredict.py",
+		"/F/Python/Deep Learning Assignments/test_2.py",
+		"/C/Python27/list1.py",
+		"/I/Programs/Merging.cpp",
+		"/G/MENUDRIV-1.cpp",
+		"/G/Infix2postfix.cpp",
+		"/H/PUSHPOP.CPP",
+		"/C/Python27/PushPop.cpp",
+		"/C/Users/RAHUL/AppData/Local/Microsoft/Windows/INetCache/IE/ECZZ1A9B/Infix2postfix[1].doc",
+		"/C/Users/RAHUL/Downloads/CP/SPARSE_M.CPP",
+		"/H/Python/string1.py",
+		"/H/Python/string2.py"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"btn btn-lg btn-secondary",
+			"checkbox mb-3",
+			"mt-5 mb-3 text-muted",
+			"LOGIN",
+			"REGISTER",
+			"hr",
+			"press",
+			"expression",
+			"gui",
+			"editdistance"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"push",
+			"terms",
+			"root"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 46.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 114.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "package.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\RAHUL\\Downloads\\CP\\SPARSE_M.CPP"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 216.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
